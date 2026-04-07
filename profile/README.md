@@ -4,7 +4,7 @@
 
 ---
 
-## 🔐 Core Focus Areas
+## Core Focus Areas
 
 * **DevSecOps Engineering**
   Embedding security across CI/CD pipelines and infrastructure layers from design to deployment.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧭 Approach
+## Approach
 
 SecuOne follows a **security-by-design philosophy**, where:
 
@@ -30,7 +30,7 @@ SecuOne follows a **security-by-design philosophy**, where:
 
 ---
 
-## 📦 Current Status
+## Current Status
 
 This organization is in an **early build phase**, with ongoing work in:
 
@@ -42,7 +42,7 @@ Selective components and documentation will be made public over time.
 
 ---
 
-## 📫 Contact
+## Contact
 
 For inquiries or collaboration:
 
@@ -51,7 +51,7 @@ For inquiries or collaboration:
 
 ---
 
-## ⚠️ Notice
+## Notice
 
 All repositories under this organization are subject to strict security and intellectual property controls.
 Public content is intentionally limited and curated.
